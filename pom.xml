@@ -13,7 +13,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
+<<<<<<< HEAD
 	demo
+=======
+>>>>>>> 13ef78f1c03b965bd3dcbb848b38de49b116ed9b
 	<url/>
 	<licenses>
 		<license/>
